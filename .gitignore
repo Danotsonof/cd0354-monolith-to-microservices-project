@@ -20,7 +20,7 @@ npm-debug.log*
 .versions/
 coverage/
 www/
-#node_modules/
+node_modules/
 tmp/
 temp/
 platforms/
@@ -34,7 +34,7 @@ logfile
 .DS_Store
 Thumbs.db
 UserInterfaceState.xcuserstate
-#node_modules
+node_modules
 venv/
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
